@@ -2,20 +2,20 @@
 <PrograPrintVersionUpdater xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
 	<PrograPrintVersions>
 		<!-- PrograPrint Manager -->
-		<PrograPrintVersion number="1.17.4.7902" software="PrograPrint Manager">
+		<PrograPrintVersion number="91.17.4.7902" software="PrograPrint Manager">
 			<DownloadUrl>https://updates.ivoclarvivadent.com/equipment/CAD-CAM-Download-Center/PrograPrint%20System/PrograPrintManager_Install_v1.17.4.7902.exe</DownloadUrl>
 			<DownloadUrlMinimalSetup>https://updates.ivoclarvivadent.com/equipment/CAD-CAM-Download-Center/PrograPrint%20System/PrograPrintManager_Update_v1.17.4.7902.exe</DownloadUrlMinimalSetup>
 		</PrograPrintVersion>
 		<!-- 3Shape CAMBridge -->
-		<PrograPrintVersion number="2.17.2.1" software="CAMbridge">
+		<PrograPrintVersion number="92.17.2.1" software="CAMbridge">
 			<DownloadUrl>https://updates.ivoclarvivadent.com/equipment/CAD-CAM-Download-Center/Libraries-and-Settings/CAMbridgeInstaller-2.17.2.1-30904.exe</DownloadUrl>
 		</PrograPrintVersion>
 		<!-- Buildstyles -->
-		<PrograPrintVersion number="17.08" software="Buildstyles">
+		<PrograPrintVersion number="917.08" software="Buildstyles">
 			<DownloadUrl>https://updates.ivoclarvivadent.com/equipment/CAD-CAM-Download-Center/Libraries-and-Settings/PrograPrint_PR5_Buildstyle_17.08.zip</DownloadUrl>
 		</PrograPrintVersion>
 		<!-- PrograPrint PR5: dev versions have 3 parts, e.g. 0.41.005 = E0.41.005; release versions have two parts: 1.0 = V1.0 -->
-		<PrograPrintVersion number="1.31" software="PrograPrint PR5">
+		<PrograPrintVersion number="91.31" software="PrograPrint PR5">
 			<DownloadUrl>https://updates.ivoclarvivadent.com/equipment/CAD-CAM-Download-Center/PrograPrint%20System/SLG2_V1.31_auto_g51f2b961e_0301V-6031.iv</DownloadUrl>
 		</PrograPrintVersion>
 	</PrograPrintVersions>
